@@ -1,6 +1,8 @@
 Hexabones
 =========
 
+!(https://www.codeship.io/projects/03864540-b767-0131-a9db-16d3760ea832/status)
+
 Hexabones is a beautifully handcrafted framework for building brand new e-commerce PrestaShop themes.
 Our goal is to provide an efficient tool for designers & developers to build high quality themes from scratch.
 Hexabones is for PrestaShop themes like Bootstrap is for websites.
